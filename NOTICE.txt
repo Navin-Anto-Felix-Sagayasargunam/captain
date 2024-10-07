@@ -1,0 +1,29 @@
+# NOTICE
+
+This product includes software, images, audio, and video that have been modified from original works licensed under the Apache License 2.0. We are grateful to the original creators for their contributions.
+
+## Acknowledgments
+
+The following components have been modified:
+* SadTalker - Copyright 2023 Wenxuan Zhang, Xiaodong Cun, Xuan Wang, Yong Zhang, Xi Shen, Yu Guo, Ying Shan, Fei Wang
+  - Nature of modifications: Various adaptations to code, audio, video, and image components
+
+## Original License
+
+Licensed under the Apache License, Version 2.0 (the "License");
+you may not use this file except in compliance with the License.
+You may obtain a copy of the License at
+
+    http://www.apache.org/licenses/LICENSE-2.0
+
+Unless required by applicable law or agreed to in writing, software
+distributed under the License is distributed on an "AS IS" BASIS,
+WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied.
+See the License for the specific language governing permissions and
+limitations under the License.
+
+## Additional Information
+
+This NOTICE file is provided in compliance with Section 4(d) of the Apache License Version 2.0. Any modifications made to the original work are clearly indicated and attributed appropriately.
+
+For more details about the specific modifications and the original works, please refer to the project documentation or contact the project maintainers.
