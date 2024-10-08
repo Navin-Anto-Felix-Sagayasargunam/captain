@@ -97,8 +97,8 @@ def main(args):
 if __name__ == '__main__':
 
     parser = ArgumentParser()  
-    parser.add_argument("--driven_audio", default='./examples/driven_audio/bus_chinese.wav', help="path to driven audio")
-    parser.add_argument("--source_image", default='./examples/source_image/full_body_1.png', help="path to source image")
+    parser.add_argument("--driven_audio", default='./examples/driven_audio/English.wav', help="path to driven audio")
+    parser.add_argument("--source_image", default='./examples/source_image/CharacterV14.jpg', help="path to source image")
     parser.add_argument("--ref_eyeblink", default=None, help="path to reference video providing eye blinking")
     parser.add_argument("--ref_pose", default=None, help="path to reference video providing pose")
     parser.add_argument("--checkpoint_dir", default='./checkpoints', help="path to output")
